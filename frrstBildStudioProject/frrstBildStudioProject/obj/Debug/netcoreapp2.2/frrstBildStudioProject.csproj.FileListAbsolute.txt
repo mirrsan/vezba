@@ -1,0 +1,14 @@
+c:\vs project\frrstBildStudioProject\frrstBildStudioProject\bin\Debug\netcoreapp2.2\frrstBildStudioProject.deps.json
+c:\vs project\frrstBildStudioProject\frrstBildStudioProject\bin\Debug\netcoreapp2.2\frrstBildStudioProject.runtimeconfig.json
+c:\vs project\frrstBildStudioProject\frrstBildStudioProject\bin\Debug\netcoreapp2.2\frrstBildStudioProject.runtimeconfig.dev.json
+c:\vs project\frrstBildStudioProject\frrstBildStudioProject\bin\Debug\netcoreapp2.2\frrstBildStudioProject.dll
+c:\vs project\frrstBildStudioProject\frrstBildStudioProject\bin\Debug\netcoreapp2.2\frrstBildStudioProject.pdb
+c:\vs project\frrstBildStudioProject\frrstBildStudioProject\obj\Debug\netcoreapp2.2\frrstBildStudioProject.csprojAssemblyReference.cache
+c:\vs project\frrstBildStudioProject\frrstBildStudioProject\obj\Debug\netcoreapp2.2\frrstBildStudioProject.csproj.CoreCompileInputs.cache
+c:\vs project\frrstBildStudioProject\frrstBildStudioProject\obj\Debug\netcoreapp2.2\frrstBildStudioProject.RazorAssemblyInfo.cache
+c:\vs project\frrstBildStudioProject\frrstBildStudioProject\obj\Debug\netcoreapp2.2\frrstBildStudioProject.RazorAssemblyInfo.cs
+c:\vs project\frrstBildStudioProject\frrstBildStudioProject\obj\Debug\netcoreapp2.2\frrstBildStudioProject.AssemblyInfoInputs.cache
+c:\vs project\frrstBildStudioProject\frrstBildStudioProject\obj\Debug\netcoreapp2.2\frrstBildStudioProject.AssemblyInfo.cs
+c:\vs project\frrstBildStudioProject\frrstBildStudioProject\obj\Debug\netcoreapp2.2\frrstBildStudioProject.RazorTargetAssemblyInfo.cache
+c:\vs project\frrstBildStudioProject\frrstBildStudioProject\obj\Debug\netcoreapp2.2\frrstBildStudioProject.dll
+c:\vs project\frrstBildStudioProject\frrstBildStudioProject\obj\Debug\netcoreapp2.2\frrstBildStudioProject.pdb
